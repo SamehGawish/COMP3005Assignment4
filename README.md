@@ -10,5 +10,9 @@ assignment 4
 	addStudent() --> inserts a new student tuple with its info to the table in the database.
 	updateStudentEmail() --> change and update the email of specific student in the table.
 	deleteStudent() --> delete and remove a student from the table in the database.
-	
+
+
+ the video link is:
+https://youtu.be/B4B24Z3HJko
+
 
